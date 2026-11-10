@@ -19,4 +19,4 @@
 
 **Next**
 - Install Docker and run PostgreSQL
-- Replace the fake products list with a real table
+- Replace the fake products list with a real tableF
